@@ -1,0 +1,8 @@
+{
+  "name": "@ayasechan/filelock",
+  "version": "0.0.1",
+  "exports": "./mod.ts",
+  "tasks": {
+    "dev": "deno test --watch mod.ts"
+  }
+}
